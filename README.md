@@ -57,24 +57,40 @@ Furthermore, pytube includes a command-line utility, allowing you to download vi
 
 **Features**
 
+•	Support for both progressive & DASH streams
+
+•	Support for downloading the complete playlist
+
+•	Easily register on_download_progress & on_download_complete callbacks
+
+•	Command-line interfaced included
+
+•	Caption track support
+
+•	Outputs caption tracks to .srt format (SubRip Subtitle)
+
+•	Ability to capture thumbnail URL
+
+•	Extensively documented source code
+
+•	No third-party dependenciess
 
 •	Support for both progressive & DASH streams
+
 •	Support for downloading the complete playlist
+
 •	Easily register on_download_progress & on_download_complete callbacks
+
 •	Command-line interfaced included
+
 •	Caption track support
+
 •	Outputs caption tracks to .srt format (SubRip Subtitle)
+
 •	Ability to capture thumbnail URL
+
 •	Extensively documented source code
-•	No third-party dependenciess
-•	Support for both progressive & DASH streams
-•	Support for downloading the complete playlist
-•	Easily register on_download_progress & on_download_complete callbacks
-•	Command-line interfaced included
-•	Caption track support
-•	Outputs caption tracks to .srt format (SubRip Subtitle)
-•	Ability to capture thumbnail URL
-•	Extensively documented source code
+
 •	No third-party dependencies
 
 
