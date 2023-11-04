@@ -10,7 +10,13 @@ The user just has to input the url and the process takes place automatically.
 
 3. Installation of pytube 
 
-           pip install pytube
+           pip install pytube (or)
+
+           $ python -m pip install pytube (or)
+
+           # Sometimes the package becomes outdated so to avoid the below github command can be used
+
+           $ python -m pip install git+https://github.com/pytube/pytube 
 
 5. Destination folder in any location of the system
 
