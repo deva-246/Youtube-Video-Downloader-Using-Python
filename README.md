@@ -32,28 +32,14 @@ Detailed documentation about the usage of the library can be found at pytube.io.
 
 **Description**
 
-    YouTube is the most popular video-sharing platform in the world and as a hacker, you may encounter a situation where you want to script something to download videos. For this, I present to you: pytube.
+YouTube is the most popular video-sharing platform in the world and as a hacker, you may encounter a situation where you want to script something to download videos. For this, I present to you: pytube. It is a lightweight library written in Python. It has no third-party dependencies and aims to be highly reliable.
+It also makes pipelining easy, allowing you to specify callback functions for different download events, such as on progress or on complete.
 
-pytube is a lightweight library written in Python. It has no third-party dependencies and aims to be highly reliable.
+Furthermore, pytube includes a command-line utility, allowing you to download videos right from the terminal.pytube is a genuine, lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos.
 
-pytube also makes pipelining easy, allowing you to specify callback functions for different download events, such as on progress or on complete.
+**Documentation**
 
-Furthermore, pytube includes a command-line utility, allowing you to download videos right from the terminal.
-
-pytube
-pytube is a genuine, lightweight, dependency-free Python library (and command-line utility) for downloading YouTube videos.
-
-Documentation
-Detailed documentation about the usage of the library can be found at pytube.io. This is recommended for most cases. If you want to hastily download a single video, the quick start guide below might be what you're looking for.
-
-Description
-YouTube is the most popular video-sharing platform in the world and as a hacker, you may encounter a situation where you want to script something to download videos. For this, I present to you: pytube.
-
-pytube is a lightweight library written in Python. It has no third-party dependencies and aims to be highly reliable.
-
-pytube also makes pipelining easy, allowing you to specify callback functions for different download events, such as on progress or on complete.
-
-Furthermore, pytube includes a command-line utility, allowing you to download videos right from the terminal.
+Detailed documentation about the usage of the library can be found at pytube.io. This is recommended for most cases. 
 
 **Features**
 
