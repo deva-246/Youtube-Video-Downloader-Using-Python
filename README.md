@@ -9,9 +9,10 @@ The user just has to input the url and the process takes place automatically.
 2. Pycharm / VS Code IDE
 
 3. Installation of pytube 
-    pip install pytube
 
-4. Destination folder in any location of the system
+           pip install pytube
+
+5. Destination folder in any location of the system
 
 ## PyTube Package in Python
 
